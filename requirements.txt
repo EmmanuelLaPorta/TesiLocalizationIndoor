@@ -5,7 +5,4 @@ matplotlib
 seaborn
 pickle-mixin
 scikit-learn
-
-
-
-
+xgboost
