@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 matplotlib
-io
 seaborn
 pickle
 sklearn
